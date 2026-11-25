@@ -78,6 +78,7 @@ class TPESampler(BaseSampler):
       Better Empirical Performance <https://arxiv.org/abs/2304.11127>`_
 
     For multi-objective TPE (MOTPE), please refer to the following papers:
+
     - `Multiobjective Tree-Structured Parzen Estimator for Computationally Expensive Optimization
       Problems <https://dl.acm.org/doi/10.1145/3377930.3389817>`_
     - `Multiobjective Tree-Structured Parzen Estimator <https://doi.org/10.1613/jair.1.13188>`_
